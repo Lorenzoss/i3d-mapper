@@ -8,7 +8,7 @@ For example:
 python i3dMapper.py file1.i3d file2.i3d file3.i3d
 ```
 
-Or you can implement it in another application, you can see an example here as an extension for a discord bot.
+Or you can implement it in another application, you can see an example [here](https://github.com/Lorenzoss/i3d-mapper/blob/main/example/discordCog.py) as an extension for a discord bot.
 
 
 # Limits
